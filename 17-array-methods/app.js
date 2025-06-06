@@ -485,3 +485,9 @@ console.log('✅ Pass array elements as function arguments');
 console.log('⚠️  Remember: shallow copy only for nested objects');
 console.log('⚠️  Consider performance with large arrays/objects');
 console.log('⚠️  Use proper deep copy for nested structures');
+
+function handleTimeOut() {
+    console.log("timed out")
+}
+
+setTimeout(handleTimeOut() ,4000);
