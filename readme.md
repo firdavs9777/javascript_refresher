@@ -11,33 +11,41 @@ Perfect for developers looking to refresh their knowledge, prepare for interview
 This repository covers essential JavaScript topics organized in a logical learning progression:
 
 ### **Foundation Concepts**
+
 - **01-console** - Master `console` methods for debugging and logging
 - **02-comments** - Best practices for code documentation
 - **03-variables** - `var`, `let`, `const` and scoping rules
 
 ### **Data & Types**
+
 - **04-data-types** - Primitives, objects, and type checking
 - **06-type-conversion** - Explicit type conversion methods
 - **08-type-coercion** - Understanding JavaScript's implicit conversions
 
 ### **Operations & Logic**
+
 - **07-operators** - Arithmetic, comparison, logical, and assignment operators
 
 ### **Working with Strings**
+
 - **09-string-methods** - Essential string manipulation techniques
 - **10-capitalize-challenge** - Hands-on string processing exercise
 
 ### **Numbers & Math**
+
 - **11-numbers-methods** - Number parsing, formatting, and validation
 - **12-math-object** - Mathematical operations and utilities
 - **13-number-challenge** - Practice with numerical computations
 
 ### **Dates & Time**
+
 - **14-date-times** - Date creation, formatting, and manipulation
 
 ### **Modern JavaScript (ES6+)**
+
 - **15-import-export** - Module system and code organization
 - **16-arrow-functions** - Concise function syntax and `this` binding
+- **17-array-methods** - Map and other methods are here
 
 ---
 
@@ -54,12 +62,14 @@ This repository covers essential JavaScript topics organized in a logical learni
 ## 🚀 Getting Started
 
 1. **Clone the repository**
+
    ```bash
    git clone <your-repo-url>
    cd javascript-refresher
    ```
 
 2. **Navigate through topics**
+
    ```bash
    cd 01-console
    # Explore the examples and run the code
@@ -75,6 +85,7 @@ This repository covers essential JavaScript topics organized in a logical learni
 ## 📖 Learning Path
 
 **Recommended order for beginners:**
+
 1. Console & Comments (01-02)
 2. Variables & Data Types (03-04)
 3. Operators & Type System (06-08)
@@ -136,4 +147,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Happy coding! 🎉*
+_Happy coding! 🎉_
